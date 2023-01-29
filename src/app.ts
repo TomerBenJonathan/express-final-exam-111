@@ -2,7 +2,13 @@ import express from 'express';
 
 const app = express();
 
-// TODO implement me :)
+const port= 3001;
+
+app.get()
+
+app.post()
+
+app.listen(port)
 
 
 export default app;
